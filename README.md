@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am currently learning Data Analytics @TuringCollege (SQL, Tableau, Python)
+Soon I will fill up my github with portfolio material as for now,
+Thank you for visiting! ✌︎
+
 <!--
 **rbogumila/rbogumila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
